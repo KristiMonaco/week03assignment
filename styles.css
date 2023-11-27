@@ -49,8 +49,9 @@
   }
 
   .table {
-    margin-top: 27px;
+    margin: 27px;
     border-color: black;
+    justify-content: center;
   }
 
   .btn {
