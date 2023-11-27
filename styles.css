@@ -48,10 +48,15 @@
     text-align: center;
   }
 
+  tr {
+    background-color:  rgb(198, 165, 176); 
+  }
+
   .table {
     margin: 27px;
     border-color: black;
     justify-content: center;
+    background-color:  rgb(198, 165, 176);
   }
 
   .btn {
@@ -60,6 +65,7 @@
 
   .theader {
     font-size: 1.25rem;
+    background-color:  rgb(198, 165, 176);
   }
 
   .imagehome {
